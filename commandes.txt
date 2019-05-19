@@ -44,4 +44,4 @@ GIT
         . : tout le dossier
         {nom}: nom du fichier/dossier 
     commit
-    log (q pour quitter)
+    log : afficher les commits (q pour quitter)
