@@ -37,8 +37,14 @@ npm :
 GIT
     status
     clone : dl un repo
+    log :(q pour quitter)
+    diff: (q pour quitter)
+
     add:
         . : tout le dossier
         {nom}: nom du fichier/dossier 
-    commit
-    log (q pour quitter)
+
+    commit:
+        -m "nomer le commit (obligatoire)"
+
+    push
