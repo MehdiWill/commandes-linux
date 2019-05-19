@@ -43,8 +43,15 @@ GIT
     add:
         . : tout le dossier
         {nom}: nom du fichier/dossier 
+<<<<<<< Updated upstream
 
     commit:
         -m "nomer le commit (obligatoire)"
 
     push
+=======
+    commit
+    log (q pour quitter)
+
+author : dralan
+>>>>>>> Stashed changes
