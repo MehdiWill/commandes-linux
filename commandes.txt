@@ -32,3 +32,13 @@ npm :
       -g : globale
    uninstall
       -g
+
+
+GIT
+    status
+    clone : dl un repo
+    add:
+        . : tout le dossier
+        {nom}: nom du fichier/dossier 
+    commit
+    log (q pour quitter)
