@@ -43,9 +43,14 @@ GIT
     add:
         . : tout le dossier
         {nom}: nom du fichier/dossier 
+<<<<<<< HEAD
 
     commit:
         -m "nomer le commit (obligatoire)"
 
     push
 toto
+=======
+    commit
+    log : afficher les commits (q pour quitter)
+>>>>>>> e0b2d5aceee1c701e7b9914d33b5b69b3707f3bd
