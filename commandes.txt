@@ -48,3 +48,4 @@ GIT
         -m "nomer le commit (obligatoire)"
 
     push
+toto
