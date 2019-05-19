@@ -1,0 +1,34 @@
+ls : voir le contenu d'un dossier
+   -a : voir fichier caché
+   -l : afficher sous forme de liste 
+   -R : affiche les enfants
+
+cd : se deplacer
+    / : dossier racine
+    ~ : mes dossiers
+    ..: dossier parent
+
+mv : deplacer un dossier/fichier
+
+cp : copier /coller
+   -r : pour dossier
+
+mkdir : creer un dossier
+touch : creer un fichier
+
+rm : supprimer
+    -f : force
+    -r : supprimer dossier
+
+pwd : afficher le chemin du dossier
+
+sudo: paser en admin
+apt install : installer un package (necessite sudo)
+
+clear : clean la console
+
+npm :
+   install
+      -g : globale
+   uninstall
+      -g
