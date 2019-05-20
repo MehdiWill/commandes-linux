@@ -1,3 +1,9 @@
+alias : 
+    win : go to win folder
+
+cat: voir le contenu d'un fichier
+
+
 ls : voir le contenu d'un dossier
    -a : voir fichier caché
    -l : afficher sous forme de liste 
@@ -43,14 +49,5 @@ GIT
     add:
         . : tout le dossier
         {nom}: nom du fichier/dossier 
-<<<<<<< HEAD
-
-    commit:
-        -m "nomer le commit (obligatoire)"
-
-    push
-toto
-=======
     commit
     log : afficher les commits (q pour quitter)
->>>>>>> e0b2d5aceee1c701e7b9914d33b5b69b3707f3bd
