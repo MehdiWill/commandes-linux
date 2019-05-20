@@ -51,8 +51,9 @@ GIT
         {nom}: nom du fichier/dossier 
     commit
 
-    pull: mise a jour avant transformation et/ou push
-    push: envoyer le dossier vers github
+    pull: download des modifs
+    push: uploader le dossier vers github
     log : afficher les commits (q pour quitter)
-    stash: mettre de coté
-    stash pop: replacer 
+    
+    stash: mettre les modifs locales de coté
+        pop: replacer les modifs stashées
