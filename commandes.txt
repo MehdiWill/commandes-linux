@@ -1,6 +1,6 @@
 alias : 
     win : go to win folder
-
+    push : raccourcis pour push
 cat: voir le contenu d'un fichier
 
 
