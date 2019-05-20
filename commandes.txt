@@ -45,15 +45,14 @@ GIT
     clone : dl un repo
     log :(q pour quitter)
     diff: (q pour quitter)
-
+    
     add:
         . : tout le dossier
         {nom}: nom du fichier/dossier 
-
-    commit:
-        -m "nomer le commit (obligatoire)"
-
-    push
-toto
     commit
+
+    pull: mise a jour avant transformation et/ou push
+    push: envoyer le dossier vers github
     log : afficher les commits (q pour quitter)
+    stash: mettre de coté
+    stash pop: replacer 
